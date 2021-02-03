@@ -1,6 +1,6 @@
 # SexSpecificCognitivePredictions
 
-This repository contains the Jupyter Notebook based implementation of the work described in: Dhamala E, Jamison KW, Jaywant A, Kuceyeski A. (2020). Integrating multimodal connectivity improves prediction of individual cognitive abilities.
+This repository contains the Jupyter Notebook based implementation of the work described in: Dhamala E, Jamison KW, Jaywant A, Kuceyeski A. (2021). Shared subcortico-subcortical and subcortico-cortical functional connectivity features predict individual cognitive abilities in males and females. 
 
 Keywords: neuroimaging, connectomics, machine learning, functional connectivity, structural connectivity, crystallised cognition, fluid cognition, cognition, prediction
 
