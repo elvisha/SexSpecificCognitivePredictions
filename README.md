@@ -15,4 +15,4 @@ Description of files:
 
 03_evaluate_model_performance.ipynb - Jupyter Notebook to evaluate whether models are significantly better than the null models, and to evaluate whether are significantly different from one another in their prediction accuracy
 
-04_feature_importance_reconstruction.ipynb - Jupyter Notebook to compute the reconstructed activaiton weights from the feature importance
+04_feature_importance_reconstruction.ipynb - Jupyter Notebook to compute the reconstructed activation (feature importance) from the raw feature weights
